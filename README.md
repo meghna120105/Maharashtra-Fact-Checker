@@ -4,6 +4,12 @@
 
 An AI-powered news platform that helps users explore Maharashtra news, analyze claims against available evidence, and generate news summaries in **English, Hindi, and Marathi**.
 
+# Maharashtra Fact Checker
+
+🔴 **Live Demo:** [Try Maharashtra Fact Checker](https://maharashtra-fact-checker.onrender.com)
+
+An AI-powered news fact-checking application focused on Maharashtra news. Explore news stories, generate summaries, and check claims using the application's available AI and evidence-search features.
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page — Light Mode
